@@ -46,3 +46,6 @@ or
     
     boxvideo /path/to/your/video.mp4 300x200 --sound
 
+# License 
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/mesflit/boxvideo/blob/main/LICENSE) file for details.
