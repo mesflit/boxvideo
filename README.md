@@ -1,6 +1,9 @@
 # BoxVideo
 
 BoxVideo is a small application designed for Linux that allows you to play videos in a resizable and draggable window. It provides a convenient way to watch your favorite videos while performing other tasks on your computer.
+
+# Video
+[YouTube](https://youtu.be/nYu0UW9Pqyk)
 # Features
 
   Resizable Window: You can resize the video window according to your preference.
